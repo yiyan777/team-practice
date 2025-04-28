@@ -1,0 +1,9 @@
+const user7 = document.querySelector(".user-7");
+const user7Img = document.createElement("img");
+
+user7.textContent = "痛みを感じる 神羅關稅!";
+
+user7Img.src = "https://images.chinatimes.com/newsphoto/2025-03-24/1024/20250324004771.jpg";
+user7Img.style.width = "40px";
+
+user7.appendChild(user7Img);
