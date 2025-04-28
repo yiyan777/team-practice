@@ -1,7 +1,14 @@
-#users>.user-0{
+/* #users>.user-7{
 	color:red;
 }
-#users>.user-0:hover{
+
+#users>.user-7:hover{
 	color: blue;
     font-size: 50px;
+} */
+
+#users>.text{
+	font-size: 50px;
+	color: blue;
+	cursor: pointer;
 }
