@@ -1,14 +1,15 @@
-/* #users>.user-7{
+#users>.user-7{
 	color:red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
-#users>.user-7:hover{
-	color: blue;
-    font-size: 50px;
-} */
+#users>.user-7>.text{
+	font-size: 35px;
+	color: #0000ff;
+}
 
-#users>.text{
-	font-size: 50px;
-	color: blue;
-	cursor: pointer;
+#users>.user-7>.text:hover{
+    font-size: 50px;
 }
