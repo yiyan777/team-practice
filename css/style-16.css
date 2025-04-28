@@ -1,0 +1,9 @@
+#users > .user-16 {
+  color: white;
+  background-color: blue;
+}
+
+#users > .user-16 a {
+  text-decoration: none;
+  color: white;
+}
